@@ -1,0 +1,6 @@
+com/fsad/skill13/controller/StudentController.class
+com/fsad/skill13/service/StudentService.class
+com/fsad/skill13/repository/StudentRepository.class
+com/fsad/skill13/Skill13Application.class
+com/fsad/skill13/controller/GlobalExceptionHandler.class
+com/fsad/skill13/model/Student.class
