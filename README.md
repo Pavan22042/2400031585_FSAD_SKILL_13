@@ -17,13 +17,13 @@ VITE_API_BASE_URL=http://localhost:8080
 
 ### Backend
 ```bash
-cd "/Users/avinashreddypadala/FULL STACK SKILL/Skill-13/backend"
+cd "/Users/kunkalapavankumar/FULL STACK SKILL/Skill-13/backend"
 mvn spring-boot:run
 ```
 
 ### Frontend
 ```bash
-cd "/Users/avinashreddypadala/FULL STACK SKILL/Skill-13/frontend"
+cd "/Users/kunkalapavankuma/FULL STACK SKILL/Skill-13/frontend"
 npm install
 npm run dev
 ```
@@ -32,20 +32,20 @@ npm run dev
 
 ### Package frontend
 ```bash
-cd "/Users/avinashreddypadala/FULL STACK SKILL/Skill-13/frontend"
+cd "/Users/kunkalapavankuma/FULL STACK SKILL/Skill-13/frontend"
 npm install
 npm run build
 ```
 
 ### Package backend JAR
 ```bash
-cd "/Users/avinashreddypadala/FULL STACK SKILL/Skill-13/backend"
+cd "/Users/kunkalapavankuma/FULL STACK SKILL/Skill-13/backend"
 mvn clean package
 ```
 
 ### Run backend JAR
 ```bash
-cd "/Users/avinashreddypadala/FULL STACK SKILL/Skill-13/backend"
+cd "/Users/kunkalapavankuma/FULL STACK SKILL/Skill-13/backend"
 java -jar target/skill13-backend-1.0.0.jar
 ```
 
